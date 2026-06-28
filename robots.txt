@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ridit2011.github.io/4s-the-aurrum-sector-59-gurgaon/sitemap.xml
